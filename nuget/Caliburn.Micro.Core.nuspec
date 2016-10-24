@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>Caliburn.Micro.Core</id>
+    <id>Caliburn.Micro.Core.Simworx</id>
     <version>3.0.1</version>
     <authors>Rob Eisenberg, Marco Amendola, Chin Bae, Ryan Cromwell, Nigel Sampson, Thomas Ibel, Matt Hidinger</authors>
-    <description>A small, yet powerful framework designed for Xaml platforms, Caliburn.Micro implements a variety of UI patterns for solving real-world problems. Patterns that are highlighted include MVVM (Presentation Model), MVP and MVC.</description>
+    <description>A small, yet powerful framework designed for Xaml platforms, Caliburn.Micro implements a variety of UI patterns for solving real-world problems. Patterns that are highlighted include MVVM (Presentation Model), MVP and MVC. .NetStandard 1.5 support</description>
     <language>en-US</language>
     <licenseUrl>https://raw.githubusercontent.com/Caliburn-Micro/Caliburn.Micro/master/License.txt</licenseUrl>
     <projectUrl>http://caliburnmicro.com/</projectUrl>
